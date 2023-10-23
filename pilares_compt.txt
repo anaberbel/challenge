@@ -1,0 +1,22 @@
+Decomposição
+
+Analisando o site da salesforce notamos que existem poucas opções de acessibilidade e também não foi encontrada uma central de gerenciamento dos recursos de acessibilidade que já existem. Tais fatores contribuem para a perca de clientes por parte da Salesforce, tendo em vista que usuários com limitações sensorials e/ou físicas encontrarão dificuldades para utilizar o site, diminuindo as chances de contratação de um produto Salesforce. 
+Avaliando isso, decidimos criar um menu de acessibilidade, disponível em todas as páginas do site, para que as funcionalidades existentes e as que serão incrementadas possam ser encontradas pelos facilmente usuários. Além disso criaremos uma página de acessibilidade, onde o usuário encontrará conteúdo informativo sobre como a Salesforce está trabalhando para aperfeiçoar seus ativos digitais para se tornar mais acessível. No nosso projeto trabalharemos primeiro identificando e reconhecendo quais opções de acessibilidade o site possui. Posteriormente, criaremos o nosso menu de gerencimento, integrando as opções citadas anteriormente. Em seguida, trabalharemos na página informativa.
+
+
+Reconhecimento de padrão
+
+Notamos que atualmente o mercado digital vem dando mais ênfase em acessibilidade, com soluções como a EqualWeb e com o Movimento Web Para Todos, bem como a inclusão de Libras em eventos, shows e vídeos.
+Em contra partida, o site da Salesforce conta com poucas opções de acessibilidade: navegação pelo teclado, mesmo que pouco eficiente, e contraste de cores.
+Com isso, nota-se a necessidade da SalesForce de incrementar funcionalidades em seu site, a fim de captar um maior número de clientes.
+
+
+Abstração
+
+Essencialmente as boas práticas da semiótica e as heurísticas de Nielsen são de grande valia para nossa solução, tendo em vista que a ela dever ser global, simples, reconhecível e principalmente intuitiva. Nosso principal objetivo é melhorar garantir uma boa aparência do site e de suas funcionalidades, e não trabalharemos com a inserção de novos recursos.
+
+
+Algoritmo
+
+Com base em discussões de colegas de sala, concluímos que grande parte dos projetos da turma terão como foco incrementar o site da Salesforce desenvolvendo novas funcionalidades, como por exemplo leitor de texto, enquanto nossa equipe notou uma forte deficiência na capacidade de gerenciamento das funcionalidades de acessibilidade.
+Para chegarmos a nossa ideia de projeto, contamos também com relatos de usuários da web com diferentes limitações sensoriais e motoras.

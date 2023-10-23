@@ -14,7 +14,7 @@ modos_daltonismo = {
 }
 
 # Função para alternar o status de uma opção
-def alternar_opcao():
+def alternar_opcao(opcao):
 
     #ativa tudo menos daltonismo
     if opcoes[opcao]["status"] == "desativado" and opcao:
@@ -58,6 +58,5 @@ while True:
     elif escolha == 3:
         selecionar_modo_daltonismo()
 
-
     if escolha != 3:
-        alternar_opcao()
+        alternar_opcao(escolha)
